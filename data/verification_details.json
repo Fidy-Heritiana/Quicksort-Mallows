@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational fractions",
+  "max_size": 10,
+  "permutations_compared_with_their_complements": 5913,
+  "parameters": {
+    "1/3": {
+      "exact_centring": 10,
+      "fourth_moment_source": 10,
+      "sampling_intervals": 55,
+      "two_eliminations_for_expectation": 9,
+      "reciprocal_parameter_distributions": 11
+    },
+    "1/2": {
+      "exact_centring": 10,
+      "fourth_moment_source": 10,
+      "sampling_intervals": 55,
+      "two_eliminations_for_expectation": 9,
+      "reciprocal_parameter_distributions": 11,
+      "small_size_values": 4
+    },
+    "2/3": {
+      "exact_centring": 10,
+      "fourth_moment_source": 10,
+      "sampling_intervals": 55,
+      "two_eliminations_for_expectation": 9,
+      "reciprocal_parameter_distributions": 11
+    }
+  }
+}

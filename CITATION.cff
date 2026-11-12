@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite this software repository when using the code or data."
+type: software
+title: "Quicksort–Mallows: reproducible computations and interactive experiments"
+authors:
+  - family-names: Andrianarivony
+    given-names: Fidy Heritiana
+repository-code: "https://github.com/Fidy-Heritiana/Quicksort-Mallows"
+url: "https://github.com/Fidy-Heritiana/Quicksort-Mallows"
+keywords:
+  - Quicksort
+  - Mallows permutations
+  - analytic combinatorics
+  - factorial moments
+  - central limit theorem

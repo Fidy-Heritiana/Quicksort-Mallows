@@ -1,0 +1,47 @@
+{
+  "verification": {
+    "phi": "1/2",
+    "max_n": 7,
+    "permutations_checked": 5913,
+    "centred_moment_orders": [
+      2,
+      3,
+      4
+    ],
+    "status": "passed"
+  },
+  "parameters": {
+    "0.25": {
+      "seed": 20260921,
+      "max_relative_centring_residual": 2.6625666457279425e-20,
+      "finite_mean_at_sample_n": 374953.6819829777,
+      "finite_variance_at_sample_n": 62084879.613447584,
+      "sample_mean": 375154.87675,
+      "sample_variance_unbiased": 62076936.78129121
+    },
+    "0.5": {
+      "seed": 20260922,
+      "max_relative_centring_residual": 2.2172457452705307e-20,
+      "finite_mean_at_sample_n": 250658.33672051842,
+      "finite_variance_at_sample_n": 82405951.67764094,
+      "sample_mean": 250731.42666666667,
+      "sample_variance_unbiased": 82491982.51866543
+    },
+    "0.8": {
+      "seed": 20260923,
+      "max_relative_centring_residual": 1.8822954383428896e-20,
+      "finite_mean_at_sample_n": 102391.10013174267,
+      "finite_variance_at_sample_n": 51672453.554168664,
+      "sample_mean": 102360.65641666666,
+      "sample_variance_unbiased": 50459772.46857287
+    }
+  },
+  "sample_n": 1000,
+  "repetitions": 12000,
+  "base_seed": 20260921,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "matplotlib": "3.10.8",
+  "longdouble_precision": 18
+}

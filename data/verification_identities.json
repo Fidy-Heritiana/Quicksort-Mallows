@@ -1,0 +1,37 @@
+{
+  "status": "passed",
+  "arithmetic": "exact rational fractions",
+  "max_recurrence_size": 10,
+  "max_moment_order": 6,
+  "max_enumeration_size": 7,
+  "permutations_enumerated": 5913,
+  "parameters": {
+    "1/3": {
+      "distributions_compared_with_enumeration": 8,
+      "expectation_and_variance": 11,
+      "moment_conversions": 77,
+      "chain_rule_derivatives": 77,
+      "hierarchy_coefficients": 66,
+      "recurrences_compared_with_distributions": 50,
+      "exact_summation_and_differences": 10
+    },
+    "1/2": {
+      "distributions_compared_with_enumeration": 8,
+      "expectation_and_variance": 11,
+      "moment_conversions": 77,
+      "chain_rule_derivatives": 77,
+      "hierarchy_coefficients": 66,
+      "recurrences_compared_with_distributions": 50,
+      "exact_summation_and_differences": 10
+    },
+    "2/3": {
+      "distributions_compared_with_enumeration": 8,
+      "expectation_and_variance": 11,
+      "moment_conversions": 77,
+      "chain_rule_derivatives": 77,
+      "hierarchy_coefficients": 66,
+      "recurrences_compared_with_distributions": 50,
+      "exact_summation_and_differences": 10
+    }
+  }
+}
