@@ -1,5 +1,6 @@
 # Quicksort under the Mallows distribution
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://quicksort-mallows-ak6ykvfg6rf4taeffvvgbc.streamlit.app/)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fidy-Heritiana/Quicksort-Mallows/blob/main/demo.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fidy-Heritiana/Quicksort-Mallows/main?labpath=demo.ipynb)
 [![Checks](https://github.com/Fidy-Heritiana/Quicksort-Mallows/actions/workflows/ci.yml/badge.svg)](https://github.com/Fidy-Heritiana/Quicksort-Mallows/actions/workflows/ci.yml)
@@ -20,11 +21,12 @@ results with Monte Carlo experiments.
 - **Colab / Binder:** click a badge above and run `demo.ipynb` from top to bottom.
   The notebook provides parameter controls and figures. GitHub displays the
   notebook, while Colab and Binder execute its code.
-- **Streamlit:** after installing the dependencies, run
-  `python -m streamlit run streamlit_app.py`, or follow
-  [the deployment instructions](DEPLOYMENT.md).
-  The public application URL will be added here after deployment.
-
+- **Streamlit:** [open the live application](https://quicksort-mallows-ak6ykvfg6rf4taeffvvgbc.streamlit.app/)
+  to explore the manuscript data, run simulations, inspect moment convergence,
+  and download results directly in your browser. No installation is required.
+  To run the application locally, use
+  `python -m streamlit run streamlit_app.py`; see
+  [the deployment instructions](DEPLOYMENT.md) for details.
 | Application page | What you can explore |
 | --- | --- |
 | Manuscript data | Original samples for φ = 0.25, 0.5 and 0.8, histograms, normal Q–Q plots and CSV downloads. |
