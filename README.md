@@ -4,6 +4,7 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fidy-Heritiana/Quicksort-Mallows/blob/main/demo.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fidy-Heritiana/Quicksort-Mallows/main?labpath=demo.ipynb)
 [![Checks](https://github.com/Fidy-Heritiana/Quicksort-Mallows/actions/workflows/ci.yml/badge.svg)](https://github.com/Fidy-Heritiana/Quicksort-Mallows/actions/workflows/ci.yml)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24186089.svg)](https://doi.org/10.5281/zenodo.24186089).
 
 **An analytic study of Quicksort comparisons: finite recurrences, moment
 asymptotics, normal fluctuations, and reproducible experiments.**
