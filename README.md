@@ -27,6 +27,7 @@ results with Monte Carlo experiments.
   To run the application locally, use
   `python -m streamlit run streamlit_app.py`; see
   [the deployment instructions](DEPLOYMENT.md) for details.
+  
 | Application page | What you can explore |
 | --- | --- |
 | Manuscript data | Original samples for φ = 0.25, 0.5 and 0.8, histograms, normal Q–Q plots and CSV downloads. |
