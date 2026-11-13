@@ -1,12 +1,22 @@
 cff-version: 1.2.0
-message: "Please cite this software repository when using the code or data."
+message: "If you use this software or its data, please cite this release."
 type: software
 title: "Quicksort–Mallows: reproducible computations and interactive experiments"
+version: "1.0.0"
+license: MIT
 authors:
   - family-names: Andrianarivony
     given-names: Fidy Heritiana
 repository-code: "https://github.com/Fidy-Heritiana/Quicksort-Mallows"
 url: "https://github.com/Fidy-Heritiana/Quicksort-Mallows"
+abstract: >-
+  Reproducible numerical computations and interactive experiments for
+  first-pivot Quicksort with stable partitioning under Mallows-distributed
+  input. The repository includes finite-size means and centred moments,
+  exact rational checks of identities, Monte Carlo simulations, saved
+  manuscript data and figures, and interactive notebook and Streamlit
+  interfaces. The experiments illustrate asymptotic moment behaviour and
+  normal fluctuations for a fixed Mallows parameter between zero and one.
 keywords:
   - Quicksort
   - Mallows permutations
