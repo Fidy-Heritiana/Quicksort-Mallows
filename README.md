@@ -4,7 +4,7 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fidy-Heritiana/Quicksort-Mallows/blob/main/demo.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Fidy-Heritiana/Quicksort-Mallows/main?labpath=demo.ipynb)
 [![Checks](https://github.com/Fidy-Heritiana/Quicksort-Mallows/actions/workflows/ci.yml/badge.svg)](https://github.com/Fidy-Heritiana/Quicksort-Mallows/actions/workflows/ci.yml)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24186089.svg)](https://doi.org/10.5281/zenodo.24186089).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24186089.svg)](https://doi.org/10.5281/zenodo.24186089)
 
 **An analytic study of Quicksort comparisons: finite recurrences, moment
 asymptotics, normal fluctuations, and reproducible experiments.**
@@ -198,6 +198,28 @@ The manuscript run used Python 3.12.14, NumPy 2.3.5, SciPy 1.17.0 and
 Matplotlib 3.10.8. Seeds and finite reference values are recorded in
 `data/validation.json`. The interactive layer uses the same numerical functions.
 
-Use `CITATION.cff` to cite the software, and record the commit identifier when
-reporting a reproduced experiment. Manuscript citation details and any archival
-DOI can be added when available. The manuscript itself is not included here.
+Version **1.0.0** is archived on Zenodo. Please cite this release as:
+
+Andrianarivony, F. H. (2026). *Quicksort–Mallows: reproducible computations and
+interactive experiments* (Version 1.0.0) [Computer software]. Zenodo.
+https://doi.org/10.5281/zenodo.24186089
+
+```bibtex
+@software{andrianarivony_2026_quicksort_mallows,
+  author    = {Andrianarivony, Fidy Heritiana},
+  title     = {{Quicksort--Mallows: reproducible computations and interactive experiments}},
+  version   = {1.0.0},
+  year      = {2026},
+  month     = nov,
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.24186089},
+  url       = {https://doi.org/10.5281/zenodo.24186089}
+}
+```
+
+Use `CITATION.cff` or GitHub's **Cite this repository** button to obtain the
+software citation. When reporting experiments, record the software version
+or commit identifier together with the parameters and random seed.
+
+The software is distributed under the [MIT license](LICENSE).
+The manuscript itself is not included in this repository.

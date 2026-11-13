@@ -3,6 +3,8 @@ message: "If you use this software or its data, please cite this release."
 type: software
 title: "Quicksort–Mallows: reproducible computations and interactive experiments"
 version: "1.0.0"
+doi: "10.5281/zenodo.24186089"
+date-released: "2026-11-13"
 license: MIT
 authors:
   - family-names: Andrianarivony
